@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/TREEGEN 2023 - procedural tree generator/Demo Scenes/TreegenTreesExamples.unity
+- path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

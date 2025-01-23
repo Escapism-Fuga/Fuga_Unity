@@ -125,6 +125,14 @@ Preset:
     value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
+    propertyPath: RandomGenerating
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: RandomTreeGeneratorComponent
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
     propertyPath: OneCommonMaterial
     value: 0
     objectReference: {fileID: 0}
@@ -1726,6 +1734,6 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: _newGenWaiting
-    value: 1
+    value: 0
     objectReference: {fileID: 0}
   m_ExcludedProperties: []
