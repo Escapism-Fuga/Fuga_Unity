@@ -1,0 +1,12 @@
+fuga_unity/Library/ArtifactDB
+fuga_unity/Library/SourceAssetDB
+/fuga_unity/Library
+/fuga_unity/Library
+*.log
+fuga_unity/Library/ArtifactDB
+fuga_unity/Library/SourceAssetDB
+fuga_unity/Logs/AssetImportWorker0.log
+fuga_unity/Logs/AssetImportWorker1.log
+fuga_unity/Logs/shadercompiler-AssetImportWorker0.log
+fuga_unity/Logs/shadercompiler-UnityShaderCompiler.exe0.log
+*.log

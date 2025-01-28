@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.45f1 (a13dfa44d684) revision 10567162'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 16085 MB
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'fr' Physical Memory: 32529 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2022.3.45f1\Editor\Unity.exe
+C:\Unity\Unity 2022.3.45f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/mat48/OneDrive/Bureau/Fuga_Unity/fuga_unity
+C:/Users/2056178/Documents/GitHub/Fuga_Unity/fuga_unity
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64470
-Successfully changed project path to: C:/Users/mat48/OneDrive/Bureau/Fuga_Unity/fuga_unity
-C:/Users/mat48/OneDrive/Bureau/Fuga_Unity/fuga_unity
+52379
+Successfully changed project path to: C:/Users/2056178/Documents/GitHub/Fuga_Unity/fuga_unity
+C:/Users/2056178/Documents/GitHub/Fuga_Unity/fuga_unity
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,70 +49,67 @@ C:/Users/mat48/OneDrive/Bureau/Fuga_Unity/fuga_unity
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [2052]  Target information:
+Player connection [7620]  Target information:
 
-Player connection [2052]  * "[IP] 192.168.1.78 [Port] 0 [Flags] 2 [Guid] 497570080 [EditorId] 497570080 [Version] 1048832 [Id] WindowsEditor(7,MSI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [7620]  * "[IP] 172.26.34.221 [Port] 0 [Flags] 2 [Guid] 2722962425 [EditorId] 2722962425 [Version] 1048832 [Id] WindowsEditor(7,CM587543) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [2052] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [2052] Host joined alternative multi-casting on [225.0.0.222:34997]...
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-Refreshing native plugins compatible for Editor in 106.36 ms, found 3 plugins.
+Player connection [7620] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [7620] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 13.64 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.45f1 (a13dfa44d684)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/mat48/OneDrive/Bureau/Fuga_Unity/fuga_unity/Assets
+[Subsystems] Discovering subsystems at path C:/Unity/Unity 2022.3.45f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2056178/Documents/GitHub/Fuga_Unity/fuga_unity/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25a0)
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f14)
     Vendor:   NVIDIA
-    VRAM:     3965 MB
-    Driver:   32.0.15.6603
+    VRAM:     8006 MB
+    Driver:   32.0.15.5612
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Mono path[0] = 'C:/Unity/Unity 2022.3.45f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Unity/Unity 2022.3.45f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Unity/Unity 2022.3.45f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56528
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007063 seconds.
-- Loaded All Assemblies, in  0.909 seconds
+Register platform support module: C:/Unity/Unity 2022.3.45f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008960 seconds.
+- Loaded All Assemblies, in  0.449 seconds
 Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 234 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.511 seconds
-Domain Reload Profiling: 1419ms
-	BeginReloadAssembly (94ms)
+- Finished resetting the current domain, in  0.292 seconds
+Domain Reload Profiling: 737ms
+	BeginReloadAssembly (135ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (162ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (51ms)
-	LoadAllAssembliesAndSetupDomain (591ms)
-		LoadAssemblies (93ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (70ms)
+	LoadAllAssembliesAndSetupDomain (186ms)
+		LoadAssemblies (132ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (589ms)
-			TypeCache.Refresh (588ms)
-				TypeCache.ScanAssembly (332ms)
+		AnalyzeDomain (183ms)
+			TypeCache.Refresh (181ms)
+				TypeCache.ScanAssembly (165ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (511ms)
+	FinalizeReload (293ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (472ms)
+		SetupLoadedEditorAssemblies (240ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (318ms)
-			SetLoadedEditorAssemblies (4ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (101ms)
-			ProcessInitializeOnLoadMethodAttributes (47ms)
+			ProcessInitializeOnLoadAttributes (166ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -121,2000 +118,194 @@ Domain Reload Profiling: 1419ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-Symbol file data-0000020A071AAE50 doesn't match image C:\Users\mat48\OneDrive\Bureau\Fuga_Unity\fuga_unity\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  1.188 seconds
+- Loaded All Assemblies, in  0.771 seconds
 Native extension for WindowsStandalone target not found
-Native extension for Android target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.324 seconds
-Domain Reload Profiling: 1511ms
-	BeginReloadAssembly (133ms)
+- Finished resetting the current domain, in  0.721 seconds
+Domain Reload Profiling: 1486ms
+	BeginReloadAssembly (184ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (476ms)
+		LoadAssemblies (363ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (227ms)
+			TypeCache.Refresh (192ms)
+				TypeCache.ScanAssembly (172ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (722ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (536ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (68ms)
+			ProcessInitializeOnLoadAttributes (425ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 7.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3346 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.4 KB). Loaded Objects now: 3815.
+Memory consumption went from 131.6 MB to 131.5 MB.
+Total: 3.232200 ms (FindLiveObjects: 0.382200 ms CreateObjectMapping: 0.379800 ms MarkObjects: 2.372700 ms  DeleteObjects: 0.095800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1622735.900368 seconds.
+  path: Assets/Scenes/Abdel-Test.unity
+  artifactKey: Guid(434e5f3c00d0eb8459ad4bb0b1750628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Abdel-Test.unity using Guid(434e5f3c00d0eb8459ad4bb0b1750628) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'de408ce639be79e8689e8af40a8dd2d2') in 0.002803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.480 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.156 seconds
+Domain Reload Profiling: 1632ms
+	BeginReloadAssembly (172ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (21ms)
-	RebuildCommonClasses (33ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (36ms)
-	LoadAllAssembliesAndSetupDomain (974ms)
-		LoadAssemblies (873ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (224ms)
+		LoadAssemblies (310ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (177ms)
-			TypeCache.Refresh (173ms)
-				TypeCache.ScanAssembly (161ms)
-			ScanForSourceGeneratedMonoScriptInfo (2ms)
-			ResolveRequiredComponents (0ms)
-	FinalizeReload (324ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1156ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (209ms)
+		SetupLoadedEditorAssemblies (497ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (17ms)
-			SetLoadedEditorAssemblies (2ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (50ms)
-			ProcessInitializeOnLoadAttributes (119ms)
-			ProcessInitializeOnLoadMethodAttributes (16ms)
-			AfterProcessingInitializeOnLoad (6ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (383ms)
+			ProcessInitializeOnLoadMethodAttributes (24ms)
+			AfterProcessingInitializeOnLoad (10ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (5ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 2.39 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (8ms)
+Refreshing native plugins compatible for Editor in 5.33 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3346 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 14 unused Assets / (54.5 KB). Loaded Objects now: 3811.
-Memory consumption went from 123.0 MB to 122.9 MB.
-Total: 2.305200 ms (FindLiveObjects: 0.226100 ms CreateObjectMapping: 0.080400 ms MarkObjects: 1.907200 ms  DeleteObjects: 0.090400 ms)
+Unloading 3331 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.4 KB). Loaded Objects now: 3818.
+Memory consumption went from 128.8 MB to 128.8 MB.
+Total: 3.274400 ms (FindLiveObjects: 0.260000 ms CreateObjectMapping: 0.264500 ms MarkObjects: 2.693700 ms  DeleteObjects: 0.055100 ms)
 
+Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:scripting/monoscript/fileName/SyncTestRunCallback.cs: 0f406f4b09f3b7bd1bfd8f867df2e978 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:scripting/monoscript/fileName/UdpSocket.cs: 7555d065f81d23e6604acb91cf79ddd6 -> 
-  custom:scripting/monoscript/fileName/ITestPlayerBuildModifier.cs: fe113c86bde5fdad424c8cc5e51fe0a4 -> 
-  custom:scripting/monoscript/fileName/CallbackInitializer.cs: b6cad195ed4890ee7aed8c4de2807157 -> 
-  custom:scripting/monoscript/fileName/RunData.cs: 772bee3d6504258eed6027a2ae076850 -> 
-  custom:scripting/monoscript/fileName/ResultsSavingCallbacks.cs: 96b4b28711ac58ce3dc199f3f7371922 -> 
-  custom:scripting/monoscript/fileName/RerunCallbackData.cs: 4e0f854372c4476a9269ddc9aa7c8edb -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:scripting/monoscript/fileName/AssetsDatabaseHelper.cs: e690d63c7b932a5efaeaf8c476198e75 -> 
-  custom:scripting/monoscript/fileName/TestLauncherBase.cs: c78237b225a855d3af10df4cd8d6a1b2 -> 
-  custom:scripting/monoscript/fileName/EditorAssembliesProxy.cs: ef0f2d44f3e723650bf58ba30866667b -> 
-  custom:scripting/monoscript/fileName/PostbuildCleanupAttributeFinder.cs: a060814a414a9bab17671800d815861d -> 
-  custom:scripting/monoscript/fileName/ITestAdaptor.cs: 1f6228260995615097fc339d08bee2f4 -> 
-  custom:scripting/monoscript/fileName/RequirePlatformSupportAttribute.cs: 6918694e41aa1ffd5ee72bd04646d4bb -> 
-  custom:scripting/monoscript/fileName/RiderTestRunner.cs: b9ea3ff0565ae2955ea8f15dd6e578d4 -> 
-  custom:scripting/monoscript/fileName/ResultSummarizer.cs: fcfdcb2adeeb82cb8f411b44b44abdb0 -> 
-  custom:scripting/monoscript/fileName/LegacyStyleProjectGeneration.cs: 4858a0ab74312ccaa3ff27a510a9d575 -> 
-  custom:scripting/monoscript/fileName/TestJobDataHolder.cs: 2c9edeeac80ff44e86cac8087411d260 -> 
-  custom:scripting/monoscript/fileName/FileUtility.cs: 2ac32d1be3995576c010e03a17edbd93 -> 
-  custom:scripting/monoscript/fileName/TestListTreeViewGUI.cs: bf873c97e960a33b0be65a5b638e7ff5 -> 
-  custom:scripting/monoscript/fileName/TestListCache.cs: ff7c7e6ac29ad86c5fe33a64ed0d2f4f -> 
-  custom:scripting/monoscript/fileName/RiderAssetPostprocessor.cs: e95044eb94149eee30f5192e36c02104 -> 
-  custom:scripting/monoscript/fileName/ExceptionEventArgs.cs: 27cb4c00a4137b184e01164606c88685 -> 
-  custom:scripting/monoscript/fileName/EditModeRunnerCallback.cs: 8a8dedaa2bec26f26744df4ec8e2f191 -> 
-  custom:scripting/monoscript/fileName/EnterPlayMode.cs: c730bf9ff77514bb260ba9933378e49c -> 
-  custom:scripting/monoscript/fileName/SyncTestRunEventsHandler.cs: 9ebe337aca2d71ac02fccc5c886e0668 -> 
-  custom:scripting/monoscript/fileName/Filter.cs: 935824dbebf762a19f2d4c4751625fe2 -> 
-  custom:scripting/monoscript/fileName/TestJobRunner.cs: 1c3d9f2bfcdac33a01c4bb25c392ab4f -> 
-  custom:scripting/monoscript/fileName/TestRunnerCallback.cs: 61231fce5590e38bfc5e9165e9803d8b -> 
-  custom:scripting/monoscript/fileName/TestRunnerUIFilter.cs: 15cddad256d0a7abe9cb58af110bbb72 -> 
-  custom:scripting/monoscript/fileName/SerializableVersion.cs: 66cf30c0372dc35aea960f71af56ff8a -> 
-  custom:scripting/monoscript/fileName/RunFinishedData.cs: a22f15c3a79d1f15ccc31ec29ab37874 -> 
-  custom:scripting/monoscript/fileName/PerformUndoTask.cs: f38e53873dc9c7e638622dda18102b41 -> 
-  custom:scripting/monoscript/fileName/ITestRunnerApi.cs: a476c74c9cbf5732bdfc8c88b9702476 -> 
-  custom:scripting/monoscript/fileName/RemoteTestResultReciever.cs: 3396dcbdb7cfcd933b2182fbc1532e1a -> 
-  custom:scripting/monoscript/fileName/VisualStudioIntegration.cs: f9e623c49f9f20ea97a4519aa48d72d4 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/monoscript/fileName/RemotePlayerTestController.cs: a065d8dd9dff07ee3c40c0e473a65f06 -> 
-  custom:scripting/monoscript/fileName/RiderInitializer.cs: d44ce07d40dcd4d066b6c1c8d08f3519 -> 
-  custom:scripting/monoscript/fileName/PlayModeTestListGUI.cs: 9528035223f9376ea8c5bf32da2d30c1 -> 
-  custom:scripting/monoscript/fileName/Image.cs: 4bdb6020842dc54a8e0a23ee7fb842e6 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:scripting/monoscript/fileName/ExitPlayMode.cs: f2eb63cb1a92bddb334eb5c2d75abc43 -> 
-  custom:scripting/monoscript/fileName/TestsCallback.cs: 420027d2a6ccaf7376f849b0f965edcd -> 
-  custom:scripting/monoscript/fileName/EditorLoadedTestAssemblyProvider.cs: 406b39f61e53aa4b6c435e30af6b5276 -> 
-  custom:scripting/monoscript/fileName/StringUtils.cs: e49393bed9b27f8092372b1c93fd8ad8 -> 
-  custom:scripting/monoscript/fileName/Cli.cs: d287e08b50f2cb135aa4d7f8e01b7ef9 -> 
-  custom:scripting/monoscript/fileName/UnityTestProtocolListener.cs: 0d4d2ab58d3a081f00c0f200ee8696be -> 
-  custom:scripting/monoscript/fileName/ProjectPart.cs: e09789f5d21ec839c23f3a2c8c340a5a -> 
-  custom:scripting/monoscript/fileName/FileIO.cs: e12d7b1846fe00e4e229609939e0062b -> 
-  custom:scripting/monoscript/fileName/MessageEventArgs.cs: 528473bbcee3623fe954627c6bfadd2e -> 
-  custom:scripting/monoscript/fileName/UnityTestProtocolStarter.cs: e4b107bc354fd6dcbd62420da6500b7c -> 
-  custom:scripting/monoscript/fileName/RuntimeTestLauncherBase.cs: 9c570bd0d91da3e5211e4436ad92314b -> 
-  custom:scripting/monoscript/fileName/SolutionProperties.cs: ab8751e49ae2f3d9994444a0a38619bd -> 
-  custom:scripting/monoscript/fileName/TestEvent.cs: ff94f6973aa3f0db280f3ed0b7577e48 -> 
-  custom:scripting/monoscript/fileName/SolutionGuidGenerator.cs: 39a21c4f5e351b9b4a2916e800641a4a -> 
-  custom:scripting/monoscript/fileName/PackageManagerTracker.cs: 651bbc6653e509037fd83f80aa48fad7 -> 
-  custom:scripting/monoscript/fileName/IFileIO.cs: d1715877724f6e7813b95bae6fbc24d5 -> 
-  custom:scripting/monoscript/fileName/EditModeLauncher.cs: 9a2b5bcdc6140673378e5f8105411606 -> 
-  custom:scripting/monoscript/fileName/ProjectGeneration.cs: 5d892aecaaa9b5c9f4162e2ae2b374ef -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:scripting/monoscript/fileName/TestRunnerApi.cs: c95fe169deea2b7a18c185e8b5613c7e -> 
-  custom:scripting/monoscript/fileName/ResultsWriter.cs: 746214782064f32efde31c48d7caa76f -> 
-  custom:scripting/monoscript/fileName/GuiHelper.cs: 7bbb51d455f8994ae6185c7dee04068a -> 
-  custom:scripting/monoscript/fileName/LuminPlatformSetup.cs: e65a295a4e58fc042cc74afa9243a080 -> 
-  custom:scripting/monoscript/fileName/CommandLineParser.cs: 25c8ce1c1ecf3aba3903da1187b88166 -> 
-  custom:scripting/monoscript/fileName/BuildActionTaskBase.cs: 90647cc400823b41df847a6cbfc29026 -> 
-  custom:scripting/monoscript/fileName/TestBuildAssemblyFilter.cs: 056870da734fd8ecf77d00737a22149f -> 
-  custom:scripting/monoscript/fileName/EditorAssemblyWrapper.cs: 8682dbb48030d53c622cd194bfa9e87d -> 
-  custom:scripting/monoscript/fileName/Solution.cs: 8bc97d0abd509f39b67b3a5bbac1b9a1 -> 
-  custom:scripting/monoscript/fileName/TestRunnerCallbacks.cs: 5627cb9f4ed769fba607b0cab8e9e63d -> 
-  custom:scripting/monoscript/fileName/RiderScriptEditor.cs: 4ddd2581343451de6f696adaf8c0958f -> 
-  custom:scripting/monoscript/fileName/TestSettings.cs: d583ccee803a035f2d53ba29374aac19 -> 
-  custom:scripting/monoscript/fileName/IUtpMessageReporter.cs: e8e6a62b6032a5642706a62156dd8314 -> 
-  custom:scripting/monoscript/fileName/RequireApiProfileAttribute.cs: 4cce4894a0d08ef40fd237b8e50d1caa -> 
-  custom:scripting/monoscript/fileName/CleanupVerificationTask.cs: 12e81b196e7eac521f1ae8e0411b3d28 -> 
-  custom:scripting/monoscript/fileName/LegacyEditModeRunTask.cs: 2b5f09ef7f63773ca676d71969800516 -> 
-  custom:scripting/monoscript/fileName/IEditorCompilationInterfaceProxy.cs: b1e49de3ac2ed1feea91c5f6846d6e49 -> 
-  custom:scripting/monoscript/fileName/IErrorCallbacks.cs: fd7a49712e8a919d38dd0fddef8872df -> 
-  custom:scripting/monoscript/fileName/RiderScriptEditorDataPersisted.cs: 93e7c36b8be60b7055550adb6ace534f -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:scripting/monoscript/fileName/RiderPathUtil.cs: a77167e74e3a3d01856e2c8265c09e64 -> 
-  custom:scripting/monoscript/fileName/TestFilterSettings.cs: 5275be823d4854688aedadf9bf48dfa8 -> 
-  custom:scripting/monoscript/fileName/ProjectProperties.cs: 407063898a13eaad2cd100e43551c6b5 -> 
-  custom:scripting/monoscript/fileName/CachingTestListProvider.cs: bfcb79acce43a93633071168c814d063 -> 
-  custom:scripting/monoscript/fileName/KnownAssemblies.cs: 286bea9f8fcee5e392f6fc0f0cd541c8 -> 
-  custom:scripting/monoscript/fileName/TestRunnerApiListener.cs: cc17cec8825a8f933d6ecbd68d51f1de -> 
-  custom:scripting/monoscript/fileName/PlatformSpecificSetup.cs: 0a7f9c0b27ae370d8bd5d3df4916ae28 -> 
-  custom:scripting/monoscript/fileName/SimpleJSON.cs: 70c028a07c79c166db015acda1282d86 -> 
-  custom:scripting/monoscript/fileName/EditModeLauncherContextSettings.cs: d1e413330d98a9101237ccbe91f95dea -> 
-  custom:scripting/monoscript/fileName/VSCodeDiscovery.cs: d83b4aff57b85f583bfc60cfbb7e527e -> 
-  custom:scripting/monoscript/fileName/Symbols.cs: 27613575e8bda8a6448f80ff27c488f9 -> 
-  custom:scripting/monoscript/fileName/ExitCallbacks.cs: 716173503afdef0ae4c4023adba1972e -> 
-  custom:scripting/monoscript/fileName/AsyncOperation.cs: 90647cc400823b41df847a6cbfc29026 -> 
-  custom:scripting/monoscript/fileName/CommandLineOption.cs: 211f73ad4421274a5a418608b74cc839 -> 
-  custom:scripting/monoscript/fileName/VersionPair.cs: 88b4a0b7e953537f26ded0a68cf4c238 -> 
-  custom:scripting/monoscript/fileName/ICallbacksHolder.cs: 790e89a97c8150c3044e584386d3ba9a -> 
-  custom:scripting/monoscript/fileName/FileIOProvider.cs: 304525d180d2b661ce338fc8a3225752 -> 
-  custom:scripting/monoscript/fileName/PlayerLauncher.cs: c1129f48ad00377c128c470482bb7e8e -> 
-  custom:scripting/monoscript/fileName/GUIDGenerator.cs: 6dd6e35608006bcfade7642e5de04c6b -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:scripting/monoscript/fileName/SdkStyleProjectGeneration.cs: bbd8a39d16aad1a0b8d5240b1f43f4a4 -> 
-  custom:scripting/monoscript/fileName/PrebuildSetupTask.cs: a4e888a510b1441a257b12183e59237b -> 
-  custom:scripting/monoscript/fileName/TestStarter.cs: d1bc3fba65bb4735afc3828355ea6c72 -> 
-  custom:scripting/monoscript/fileName/ApplePlatformSetup.cs: 0ceeffeb4378c50fe08ff9b5d16a73f3 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:scripting/monoscript/fileName/RerunCallback.cs: ffe49cf602017087ffa7749d06513ace -> 
-  custom:scripting/monoscript/fileName/RiderMenu.cs: a430c0ff873704a92fbd3fa96f173c8d -> 
-  custom:scripting/monoscript/fileName/EditorCompilationInterfaceProxy.cs: 12bc7b3dd0ab2ff83629d76ca37d0d4d -> 
-  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
-  custom:scripting/monoscript/fileName/TestResultAdaptor.cs: fb4db3971d5379750cda884e7e44e3e4 -> 
-  custom:scripting/monoscript/fileName/PlayerLauncherTestRunSettings.cs: ac04d6a6a9c6380f318071a2f4da8a2f -> 
-  custom:scripting/monoscript/fileName/TestListTreeViewDataSource.cs: 153f0d5d9a6099f80f6d26e9c0ad6b7d -> 
-  custom:scripting/monoscript/fileName/TestPlayerBuildModifierAttribute.cs: d4ffc53911ef24dec9dc901e0444a77b -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:scripting/monoscript/fileName/ITestListCache.cs: 93f202374a8dd6602503d990ab2feb72 -> 
-  custom:scripting/monoscript/fileName/PluginSettings.cs: 4ee82f9c59f87f1dece05e6b9763c365 -> 
-  custom:scripting/monoscript/fileName/CommandLineOptionSet.cs: 57b6c3812f217f48a5cedf066a216cfd -> 
-  custom:scripting/monoscript/fileName/TestTreeData.cs: 1859d24be324d8fb87ab0c693d76d928 -> 
-  custom:scripting/monoscript/fileName/ITestRunnerApiMapper.cs: 337d02b691c8103d2eedc6b52f4f76ab -> 
-  custom:scripting/monoscript/fileName/RerunCallbackInitializer.cs: a2ca4a4e4bb070fd30ec377e61ed66cb -> 
-  custom:scripting/monoscript/fileName/LastWriteTracker.cs: c78bd5b4fa28ac60ca7ed50f9c2b99d2 -> 
-  custom:scripting/monoscript/fileName/IEditorAssembliesProxy.cs: 8586f95fda82b1fa948b8ac0ebb50a9d -> 
-  custom:scripting/monoscript/fileName/VSCodeScriptEditor.cs: 976f19e81f1a1748ecd5ce0eeab6e373 -> 
-  custom:scripting/monoscript/fileName/FileSystemUtil.cs: 3a1d37ca0015bdfbd542c903cf738043 -> 
-  custom:scripting/monoscript/fileName/SettingsBuilder.cs: 9aeeee75a181ed82e0343a1fb6b9cead -> 
-  custom:scripting/monoscript/fileName/ICallbacks.cs: a9c5fd289272fce7e09c7f3e5f11b8a0 -> 
-  custom:scripting/monoscript/fileName/ITestListCacheData.cs: 09682e3e03141d9f43100cdaff3665eb -> 
-  custom:scripting/monoscript/fileName/AndroidPlatformSetup.cs: 67d5fa212608c900d88b1544a5f49997 -> 
-  custom:scripting/monoscript/fileName/SetupException.cs: 38724dd55c58f65b09d9fda4b6161021 -> 
-  custom:scripting/monoscript/fileName/PrebuildSetupAttributeFinder.cs: 1f975f3a70c8f9747da919735d84e6c3 -> 
-  custom:scripting/monoscript/fileName/IEditorLoadedTestAssemblyProvider.cs: cbb3f715010afa8cd4f0f40294bb78ba -> 
-  custom:scripting/monoscript/fileName/TestListCacheData.cs: 295232838ed90f85679b2d004562d59e -> 
-  custom:scripting/monoscript/fileName/UnityInstallation.cs: 0ba30d4545f2c34a9323456723b5dbfe -> 
-  custom:scripting/monoscript/fileName/StringBuilderExtensions.cs: 14a3bca92eed52569c50d58813f48a9b -> 
-  custom:scripting/monoscript/fileName/AssemblyNameProvider.cs: 170b0fd934f78f2e6a09342014bfa1fc -> 
-  custom:scripting/monoscript/fileName/SolutionProjectEntry.cs: 68cea09e9af09443edf61e18806ac1c2 -> 
-  custom:scripting/monoscript/fileName/TestListProvider.cs: f8235933605b6a025c9638df0194bf97 -> 
-  custom:scripting/monoscript/fileName/ITestListProvider.cs: 0169c532d74787e64cd4163cd55d4572 -> 
-  custom:scripting/monoscript/fileName/VisualStudioEditor.cs: 21e59f688ad500ab61aca318850ec505 -> 
-  custom:scripting/monoscript/fileName/TestListGUIBase.cs: 24d4809a020104916f1cbf5b523f10ca -> 
-  custom:scripting/monoscript/fileName/EditorPluginInterop.cs: 087796556f1ed2025e28209e52d82ccc -> 
-  custom:scripting/monoscript/fileName/WindowResultUpdaterDataHolder.cs: 2de8ba1615f5d28c30d54411d42e2524 -> 
-  custom:scripting/monoscript/fileName/LogWriter.cs: 89105d9cfbe59e79a996dde998b3e7ff -> 
-  custom:scripting/monoscript/fileName/LegacyPlayModeRunTask.cs: 8a159c990fea520d0af36b86d243e79e -> 
-  custom:scripting/monoscript/fileName/TestRunCanceledException.cs: ff7dc6bce365deb50fafe94b823009cb -> 
-  custom:scripting/monoscript/fileName/ISettingsBuilder.cs: af84c62ea6a033820a24a2d04c70d5c3 -> 
-  custom:scripting/monoscript/fileName/IGenerator.cs: 7460422a7cf0a449df86606b185ffb0e -> 
-  custom:scripting/monoscript/fileName/RenderingOptions.cs: a84cebfad0b53e3dbf0202be3cc1d6d3 -> 
-  custom:scripting/monoscript/fileName/VisualStudioForWindowsInstallation.cs: 468ed6fb57813d3de23aa53f5f59c2eb -> 
-  custom:scripting/monoscript/fileName/ITestResultAdaptor.cs: bb9e1bbb2ff45e5a5f11e877a24721d7 -> 
-  custom:scripting/monoscript/fileName/VisualStudioInstallation.cs: 41612f13db7783c8635801ab159c1079 -> 
-  custom:scripting/monoscript/fileName/IAssetsDatabaseHelper.cs: 4f8027cddf715e38f75ab454f20fe051 -> 
-  custom:scripting/monoscript/fileName/LogSavingCallbacks.cs: 8eb93b3e2c76ea1a8acb6e2d0b5c5f91 -> 
-  custom:scripting/monoscript/fileName/ITestAdaptorFactory.cs: 0cef1125679c38dd172e82c8aed26eb9 -> 
-  custom:scripting/monoscript/fileName/TestListJob.cs: 3a58b9c1d09f7f4ecb41254c8497b5c7 -> 
-  custom:scripting/monoscript/fileName/SwitchPlatformSetup.cs: 576de741bbd585688af4b8aaf70f0708 -> 
-  custom:scripting/monoscript/fileName/TestFinishedMessage.cs: ccd3538dc4059cd71acd9bfea48dbc80 -> 
-  custom:scripting/monoscript/fileName/PlayerLauncherContextSettings.cs: 3c0a34dce28ade8f88b3e213fadb0738 -> 
-  custom:scripting/monoscript/fileName/WindowResultUpdater.cs: 605812b0e2a9a0174e15ed86a3d5ac57 -> 
-  custom:scripting/monoscript/fileName/IAssemblyNameProvider.cs: 005dc9d9c07dc825fea94e0fbc841e20 -> 
-  custom:scripting/monoscript/fileName/TestRunnerResult.cs: 613fb3e1dfef14aa9d5aea2cd635ffff -> 
-  custom:scripting/monoscript/fileName/EditModeRunner.cs: f1ceb581ae48e42ca32e80f796ce45bc -> 
-  custom:scripting/monoscript/fileName/Icons.cs: d200e454d3abc3ae715b656f39ed7d9c -> 
-  custom:scripting/monoscript/fileName/ITestTreeRebuildCallbacks.cs: f952713f83d574a58f719696be7e52a3 -> 
-  custom:scripting/monoscript/fileName/RunSettings.cs: 6770f3fdaf287e73ff6c63f28a5a7e92 -> 
-  custom:scripting/monoscript/fileName/Serializer.cs: d7df1b97d0a3bd0bb98fd4d2d5bf5d29 -> 
-  custom:scripting/monoscript/fileName/SaveModiedSceneTask.cs: 135adac13be698ff4439d6c6268aa5b8 -> 
-  custom:scripting/monoscript/fileName/UITestRunnerFilter.cs: a9e31eaec62dd508fa917eadb1c52808 -> 
-  custom:scripting/monoscript/fileName/Executer.cs: 3f667ef14fa1c500658713b8aa31fd85 -> 
-  custom:scripting/monoscript/fileName/UtpMessageReporter.cs: 1ce82c57220e51532d6b3e5da0cecc24 -> 
-  custom:scripting/monoscript/fileName/FileCleanupVerifierTaskBase.cs: 8c0e90b329ac988e22429767c222f3c6 -> 
-  custom:scripting/monoscript/fileName/UwpPlatformSetup.cs: b9f50f93de5f547a7eaf96f1bc58a80f -> 
-  custom:scripting/monoscript/fileName/EnumeratorStepHelper.cs: 05022a723dcf173476ccb43403871168 -> 
-  custom:scripting/monoscript/fileName/AssetPipelineIgnore.cs: 09786e27e9aef22fa608d3ec356f88ff -> 
-  custom:scripting/monoscript/fileName/RecompileScripts.cs: 73e345449efb1420f34aad9debcdf2bd -> 
-  custom:scripting/monoscript/fileName/LibcNativeInterop.cs: 77c1db6bef2e1063dc874463b520ed18 -> 
-  custom:scripting/monoscript/fileName/StadiaPlatformSetup.cs: 27e00e91e04b4888c1d6354fa4baa6a5 -> 
-  custom:scripting/monoscript/fileName/TestResultSerializer.cs: b75c8de5ed0cf8b4071350488249260d -> 
-  custom:scripting/monoscript/fileName/TestSettingsDeserializer.cs: 2daa2d89ea5f024d33cb1e72a3d35d63 -> 
-  custom:scripting/monoscript/fileName/EditModeTestListGUI.cs: 8831f0ca2dcd13614282b516af72c688 -> 
-  custom:scripting/monoscript/fileName/CallbackData.cs: b15b13425eedd78fb5c4fc4930a9e8b4 -> 
-  custom:scripting/monoscript/fileName/Messenger.cs: f4ebc46d09b2b4de489946914db2aae0 -> 
-  custom:scripting/monoscript/fileName/StartUpMethodExecutor.cs: 45cc23141d36926881d69e4d2f8950c7 -> 
-  custom:scripting/monoscript/fileName/IUtpLogger.cs: 1b41334d9fc4fd5edb024e0bd2a6db56 -> 
-  custom:scripting/monoscript/fileName/DelayedCallback.cs: e88c5396d33adcd6404b4cb8a051b2b1 -> 
-  custom:scripting/monoscript/fileName/TcpListener.cs: 940bfdac0e91ad2884e6359468f2782a -> 
-  custom:scripting/monoscript/fileName/TestRunnerWindow.cs: 156fc89bab7bdd82ca70e07c9aa9ebbd -> 
-  custom:scripting/monoscript/fileName/RiderStyles.cs: 871a958d95b29e48af876a5d411c626a -> 
-  custom:scripting/monoscript/fileName/GUIDProvider.cs: cdd3f47e4fe593d2dfdf9915fa537e3f -> 
-  custom:scripting/monoscript/fileName/TestRunnerApiMapper.cs: 241489454095fad1d1d89166ee62820f -> 
-  custom:scripting/monoscript/fileName/Message.cs: 671a789acb2c7a93d0b620fe02979957 -> 
-  custom:scripting/monoscript/fileName/TestTreeViewBuilder.cs: 6ec2bdd7d75f4f5e0b3318e1489ac19d -> 
-  custom:scripting/monoscript/fileName/LegacyPlayerRunTask.cs: 148e0500b0761261bc418d25c26e82b1 -> 
-  custom:scripting/monoscript/fileName/SolutionParser.cs: 240a75b5fc2682997268aa77e6a1dd86 -> 
-  custom:scripting/monoscript/fileName/BuildTestTreeTask.cs: ca4a5380bc07f43d0ad6bc5c2ca39b4b -> 
-  custom:scripting/monoscript/fileName/ICallbacksDelegator.cs: 2bfa822de05a601b9fbe2f79d4d317c0 -> 
-  custom:scripting/monoscript/fileName/TestListGuiHelper.cs: 6d40eb061ebdba07e078b90b14eadffd -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:scripting/monoscript/fileName/IGuiHelper.cs: da57d3fb0f8ace42d5b01eed25e9e3d5 -> 
-  custom:scripting/monoscript/fileName/TestAdaptor.cs: 486cec8559bad7c56adc699f165feb67 -> 
-  custom:scripting/monoscript/fileName/EditmodeWorkItemFactory.cs: e9c8ba8d2a4b7d9a886e64626b2e6205 -> 
-  custom:scripting/monoscript/fileName/TestJobData.cs: 194f4626c5a4649f7b9d85aa9d59e59a -> 
-  custom:scripting/monoscript/fileName/TestStartedMessage.cs: 2e20a681c83fd9e8634c9b938205f951 -> 
-  custom:scripting/monoscript/fileName/TestPlanMessage.cs: 6199b0505360321c39d00a607adaaf8d -> 
-  custom:scripting/monoscript/fileName/CallbacksDelegator.cs: e0dcdade48f633c0a7cebc925bd686c4 -> 
-  custom:scripting/monoscript/fileName/TcpClient.cs: a949cfd4c46427829913ee0195fa0103 -> 
-  custom:scripting/monoscript/fileName/ITestSettings.cs: 7d6676128f469c2eefb2813ec592ab4f -> 
-  custom:scripting/monoscript/fileName/UsageUtility.cs: 5ed3d13206b2b96245ce59a5c83beed1 -> 
-  custom:scripting/monoscript/fileName/ITestRunSettings.cs: a5342276210c7f86635118880184dc77 -> 
-  custom:scripting/monoscript/fileName/CallbacksDelegatorListener.cs: f80c4f45fed6816f24285f468af00026 -> 
-  custom:scripting/monoscript/fileName/TestRunnerWindowSettings.cs: fb70b758f65d0605100dbd9482b7158e -> 
-  custom:scripting/monoscript/fileName/IPlatformSetup.cs: 6f20476898784a15f8b8eb28653a67fd -> 
-  custom:scripting/monoscript/fileName/TestTreeViewItem.cs: aae3d62f4daf680133c1c18c7814d15e -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:scripting/monoscript/fileName/AttributeFinderBase.cs: 7e104530f871143fdb60a169114dd663 -> 
-  custom:scripting/monoscript/fileName/RiderScriptEditorData.cs: fb9aed0c9d95878995d450a00d549f78 -> 
-  custom:scripting/monoscript/fileName/SaveUndoIndexTask.cs: 6e0bcd5f418cf8184993174ac732fff4 -> 
-  custom:scripting/monoscript/fileName/PlayerLauncherBuildOptions.cs: 39352f62028667e3cc8d13371f828f55 -> 
-  custom:scripting/monoscript/fileName/ProcessRunner.cs: 932a2a80cb9a3539199f645deff3c585 -> 
-  custom:scripting/monoscript/fileName/PlaymodeLauncher.cs: 7559db6722a49842c0446e2fd98b6c97 -> 
-  custom:scripting/monoscript/fileName/WaitForDomainReload.cs: b6033700f0adcf3b23782f04c42e269c -> 
-  custom:scripting/monoscript/fileName/ExitCallbacksDataHolder.cs: 2a73f9623aa81becb5d8d11a43747b12 -> 
-  custom:scripting/monoscript/fileName/EditorEnumeratorTestWorkItem.cs: b8f886476b7c18f3c1cdeae30ec0c8ea -> 
-  custom:scripting/monoscript/fileName/RegisterFilesForCleanupVerificationTask.cs: f18fd2d946c9ea52b8232f47d6d70221 -> 
-  custom:scripting/monoscript/fileName/ICommandLineOption.cs: 58da599070a3bdab08afc8355de79ed5 -> 
-  custom:scripting/monoscript/fileName/ITestSettingsDeserializer.cs: 22e37de7af2cea07971d0ba87110dad7 -> 
-  custom:scripting/monoscript/fileName/AnalyticsReporter.cs: 990f0ccd7dd9ebe56483e30a572c9394 -> 
-  custom:scripting/monoscript/fileName/TestRunnerStateSerializer.cs: 7206f4f1eb4c5991ea76b5c39830dba4 -> 
-  custom:scripting/monoscript/fileName/TestAdaptorFactory.cs: b9e4d12260befcd688940e2c80db8ee8 -> 
-  custom:scripting/monoscript/fileName/UtpDebuglogger.cs: 2f96cd7ac1384aa23e8238df80ef8354 -> 
-  custom:scripting/monoscript/fileName/VisualStudioCodeInstallation.cs: 6b6ec59c4ff0bddfc5db8b3c453d5172 -> 
-  custom:scripting/monoscript/fileName/EditModePCHelper.cs: e16a214ddb2d161f4792170cb0c8e6aa -> 
-  custom:scripting/monoscript/fileName/ExecutionSettings.cs: bbd5f229f5dcda0d2d7d6fe8eb266a59 -> 
-  custom:scripting/monoscript/fileName/Deserializer.cs: 1cc72e9ed2428cc6d6ce2d4d2ad7b02b -> 
-  custom:scripting/monoscript/fileName/Discovery.cs: 2b1006b9be47307c73378eaafc98b6fb -> 
-  custom:scripting/monoscript/fileName/IGUIDGenerator.cs: bad2c2e3b2dbec33c36bdfd6fc903e19 -> 
-  custom:scripting/monoscript/fileName/AnalyticsTestCallback.cs: 70c2658c96c40ebe349fda85c81dae6e -> 
-  custom:scripting/monoscript/fileName/RemotePlayerLogController.cs: 158b55f2a8781eb1cac7ac26acd42fc6 -> 
-  custom:scripting/monoscript/fileName/TestTaskBase.cs: 162ca0c58961a22b2d7f2a866ccb62df -> 
-  custom:scripting/monoscript/fileName/CallbacksHolder.cs: 8b4255bb9b31589c4c3dd9303007381d -> 
-========================================================================
-Received Import Request.
-  Time since last request: 198816.203081 seconds.
-  path: Assets/extOSC/Scripts/extOSC.asmdef
-  artifactKey: Guid(7b4b8ddafd710964f8c6a9a1cb414feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/Scripts/extOSC.asmdef using Guid(7b4b8ddafd710964f8c6a9a1cb414feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a3189990ebf9eb0727827b4fdca85f46') in 0.002465 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 110.935932 seconds.
-  path: Assets/extOSC/extOSC - Documentation.pdf
-  artifactKey: Guid(47e90ecf84e1f456bb2ab0127aa5f523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/extOSC/extOSC - Documentation.pdf using Guid(47e90ecf84e1f456bb2ab0127aa5f523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3a3f81cb992f2beb9f8dfd03e5b791da') in 0.008451 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 141.203243 seconds.
-  path: Assets/extOSC/CHANGELOG.md
-  artifactKey: Guid(90d052affbff01f4cac0bbee2ef63014) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/CHANGELOG.md using Guid(90d052affbff01f4cac0bbee2ef63014) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '97d3f18c8f381b323ca93a2546b71b01') in 0.072038 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/MyOSC.cs
-  artifactKey: Guid(b76bb4e18d4f6f84caba07cee26b9b23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/MyOSC.cs using Guid(b76bb4e18d4f6f84caba07cee26b9b23) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1ce79f2736733af1a904c41aa9fccf48') in 0.041281 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Core/OSCConsolePacket.cs
-  artifactKey: Guid(7f548c911ef704afe82bf35c3df7f6c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/OSCConsolePacket.cs using Guid(7f548c911ef704afe82bf35c3df7f6c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd50ee5ce4e6f9ef4d6fc9aeff735791f') in 0.012699 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/Editor/OSCEditorInterface.cs
-  artifactKey: Guid(8509fc93f86664ccda53f6f4db03caeb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/OSCEditorInterface.cs using Guid(8509fc93f86664ccda53f6f4db03caeb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '43238b36e3994989c1e4378204374cea') in 0.010995 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCMultiplySliders.cs
-  artifactKey: Guid(04ec8b873161b44309d39b02a1ef004f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCMultiplySliders.cs using Guid(04ec8b873161b44309d39b02a1ef004f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8883e1c5ec2734d8c60cc929329b940b') in 0.011819 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Mapping/OSCMapEnum.cs
-  artifactKey: Guid(6a3baaf0f75c5456eac4cc3073b76bf8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Mapping/OSCMapEnum.cs using Guid(6a3baaf0f75c5456eac4cc3073b76bf8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c3d5010eb3e5b11a6e737fb8f49f329c') in 0.015052 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCRotary.cs
-  artifactKey: Guid(7fb3267db24fa41858833c6227337502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCRotary.cs using Guid(7fb3267db24fa41858833c6227337502) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '01a6db057d2f08a1e063f20abaa95891') in 0.012005 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_UI_panel_filled.png
-  artifactKey: Guid(c0046ff7d58574b78bdcdf8e3622ed13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_UI_panel_filled.png using Guid(c0046ff7d58574b78bdcdf8e3622ed13) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '88c6d445a22d265b253b8db55dda747d') in 0.073399 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Resources/extOSC/IW_small_logo_dark.png
-  artifactKey: Guid(cb778a24ccd6aaa4ba27ccbcdda3f3aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/IW_small_logo_dark.png using Guid(cb778a24ccd6aaa4ba27ccbcdda3f3aa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '111b9930e62e80fbf05135a65d8ebd5a') in 0.024308 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_transmitter_light.png
-  artifactKey: Guid(3f04455fc160e45b89c3396dae30380e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_transmitter_light.png using Guid(3f04455fc160e45b89c3396dae30380e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5600e8013a2235ad1ec801d53cfd4dba') in 0.024397 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/extOSC.asmdef
-  artifactKey: Guid(7b4b8ddafd710964f8c6a9a1cb414feb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/extOSC.asmdef using Guid(7b4b8ddafd710964f8c6a9a1cb414feb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '162128989abd7067ce59e7caddca7114') in 0.015224 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Examples/05) Events And Informers/Events And Informers.unity
-  artifactKey: Guid(9d61a62e771954ad8a436984a8e7653d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/05) Events And Informers/Events And Informers.unity using Guid(9d61a62e771954ad8a436984a8e7653d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '68d14f09cabaca3e316b0cdecaeac779') in 0.010253 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/OSCUtilities.cs
-  artifactKey: Guid(5d7d8642e8a9b4546be434c9b93264c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/OSCUtilities.cs using Guid(5d7d8642e8a9b4546be434c9b93264c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b1ed5096c624e96e1f0d0dba9625ddef') in 0.010540 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_UI_rotary_filled.png
-  artifactKey: Guid(4ccd501fc31ad46a09449907afbba9b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_UI_rotary_filled.png using Guid(4ccd501fc31ad46a09449907afbba9b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fa9745da8e255b41b4ebc6796d8a8477') in 0.029109 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/extOSC/Scripts/Components/OSCTransmitterComponent.cs
-  artifactKey: Guid(f6b59c5b35e4f4c8caf0b870ad04ef00) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/OSCTransmitterComponent.cs using Guid(f6b59c5b35e4f4c8caf0b870ad04ef00) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '01c9748219ba28325e0f27dfbbb29c74') in 0.013111 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/extOSC/Scripts/Editor/OSCEditorTextures.cs
-  artifactKey: Guid(03320299af046a940a20cb48af0a5642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/OSCEditorTextures.cs using Guid(03320299af046a940a20cb48af0a5642) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '09fb6cb403e23b3f4a61ece2d7639c04') in 0.011895 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Examples/11) Array/Array.unity
-  artifactKey: Guid(58827368f39af4490ad30a5926b8fcb0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/11) Array/Array.unity using Guid(58827368f39af4490ad30a5926b8fcb0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7e43460d476beaee9072d8bd96d6b63e') in 0.009358 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_UI_panel_border.png
-  artifactKey: Guid(ce23a9ef5cbb54d72a143ba8ac3ab5b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_UI_panel_border.png using Guid(ce23a9ef5cbb54d72a143ba8ac3ab5b2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'ad8821f533a41b2079c549f99685c780') in 0.027438 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Core/OSCBase.cs
-  artifactKey: Guid(ed38c75da82e9d64882216c17f7a5c7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/OSCBase.cs using Guid(ed38c75da82e9d64882216c17f7a5c7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c7f61cfd5ef1bcc9f69ad0ae97d96973') in 0.011487 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/extOSC/Examples/02) Value Types/Value Types.unity
-  artifactKey: Guid(d564e5d9157d14280bad3f7e424db8ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/02) Value Types/Value Types.unity using Guid(d564e5d9157d14280bad3f7e424db8ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0fd755b01725db3dab200d659d525292') in 0.009359 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCSlider.cs
-  artifactKey: Guid(32e1acb24f74d4ef7b0324cc638a6488) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCSlider.cs using Guid(32e1acb24f74d4ef7b0324cc638a6488) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5dfd2eea96a58dbfcec04e1fffb37850') in 0.012447 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/OSCMessage.cs
-  artifactKey: Guid(51a5ce6cec4bf2748b130430475b0b0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/OSCMessage.cs using Guid(51a5ce6cec4bf2748b130430475b0b0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3044f1c9a3524fc2996e12bc1312b327') in 0.011484 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Examples/12) Match Pattern/Match Pattern.unity
-  artifactKey: Guid(33cc5d6b7e9b1469e8b1f5d0db69c47b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/12) Match Pattern/Match Pattern.unity using Guid(33cc5d6b7e9b1469e8b1f5d0db69c47b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'ee45a62db4607b6f99651b1cc42c5e94') in 0.009654 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/OSCTransmitter.cs
-  artifactKey: Guid(464088183d2a1484ab8fb64e356c9f5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/OSCTransmitter.cs using Guid(464088183d2a1484ab8fb64e356c9f5c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '176652546e69d655006216a06ba016f8') in 0.013257 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCPad.cs
-  artifactKey: Guid(f0b17a7e5df8d421f94418aaf797527d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCPad.cs using Guid(f0b17a7e5df8d421f94418aaf797527d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3c149dfbfa6868cc4a03f7084517e009') in 0.012013 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Resources/extOSC/IW_logo_dark.png
-  artifactKey: Guid(5973e72e3cee0334692894ee3a6c177a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/IW_logo_dark.png using Guid(5973e72e3cee0334692894ee3a6c177a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9ff19ffeb6a8850714624cab5e6a84fa') in 0.026845 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (tropical palm).preset
-  artifactKey: Guid(6ce5d54370db13046820579878f68122) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (tropical palm).preset using Guid(6ce5d54370db13046820579878f68122) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '331c64298b3258f8fc1a9f5bb1163d61') in 0.031520 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Shaders/TREEGEN_Leaves.shader
-  artifactKey: Guid(0154318cd2c5a3747a66420b5d885dd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Shaders/TREEGEN_Leaves.shader using Guid(0154318cd2c5a3747a66420b5d885dd5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '14c373f6d979ff8f9ec862e7b9a4dabd') in 0.019724 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (snow spruce).preset
-  artifactKey: Guid(3c3c82e5b6dfa084dbfc2770a0b3c7dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (snow spruce).preset using Guid(3c3c82e5b6dfa084dbfc2770a0b3c7dc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7f68b3c474c1c39db67473fed837873c') in 0.022116 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (palm).preset
-  artifactKey: Guid(c8670e361e4571f4e82e8eef379b64cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (palm).preset using Guid(c8670e361e4571f4e82e8eef379b64cb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '24ca76816b3070830a16da97e68f272a') in 0.023251 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (poplar).preset
-  artifactKey: Guid(771665e5fbfcb7640b34ff523a637c62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (poplar).preset using Guid(771665e5fbfcb7640b34ff523a637c62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '038293595a97e3f59c1160150ba780bf') in 0.022830 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (dead tall tree).preset
-  artifactKey: Guid(dbbf88c37c7f62e41b1dfe91a13277de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (dead tall tree).preset using Guid(dbbf88c37c7f62e41b1dfe91a13277de) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'ce6412fe813da5d53f4e40fb3049fbfd') in 0.021344 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (stump).preset
-  artifactKey: Guid(f404c6aa9e9bc504aaf467b1678e3492) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (stump).preset using Guid(f404c6aa9e9bc504aaf467b1678e3492) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '71dfd895ce88638f9595aba8dbc72151') in 0.021841 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 1.png
-  artifactKey: Guid(bac9f970deb383e4fb9a8b3d9a7e61fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 1.png using Guid(bac9f970deb383e4fb9a8b3d9a7e61fe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '52deac8fa39dc28e96f850e2d3144bcd') in 0.025783 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 20.png
-  artifactKey: Guid(d05a31efd9dc7c6488fb918108b5550a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 20.png using Guid(d05a31efd9dc7c6488fb918108b5550a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b57955193cf41f491453001902292314') in 0.027840 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 17.png
-  artifactKey: Guid(fcb2638c5bd66c5439770d20583a3b65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 17.png using Guid(fcb2638c5bd66c5439770d20583a3b65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '67741946372e3d7ada01aad3c2245fbd') in 0.026023 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (oak).preset
-  artifactKey: Guid(b6fb68f1dae92cd4eb19ce6ad53c8736) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (oak).preset using Guid(b6fb68f1dae92cd4eb19ce6ad53c8736) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '79d23ba210bfd37a4e9622bb1a4873b4') in 0.019351 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (huge tree).preset
-  artifactKey: Guid(08b246e68a31c264bb669dcadfd79d4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (huge tree).preset using Guid(08b246e68a31c264bb669dcadfd79d4e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '403f257822765219306f495ea58e5aa7') in 0.021688 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGEN Internal mechanisms/TreegenSimpleGenerator.cs
-  artifactKey: Guid(95a842c00bba86f45b920f745e07c1ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGEN Internal mechanisms/TreegenSimpleGenerator.cs using Guid(95a842c00bba86f45b920f745e07c1ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1c2dfaff70ad39b93b4af6ddd2b83eab') in 0.014500 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/extOSC/Examples/10) Ping/Ping.unity
-  artifactKey: Guid(70bedf432310441629a694cd0ab62aa1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/10) Ping/Ping.unity using Guid(70bedf432310441629a694cd0ab62aa1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '34f13b72389a8d186ba463d6dc99cd2a') in 0.010821 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/My Treegen Meshes/TREEGEN My tree Mesh #1.asset
-  artifactKey: Guid(38f7ccde397be5f4c9d1b13e66afd116) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/My Treegen Meshes/TREEGEN My tree Mesh #1.asset using Guid(38f7ccde397be5f4c9d1b13e66afd116) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3b6824fedb3e21572ab579a8b226d3c7') in 0.050983 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/LICENSE
-  artifactKey: Guid(dad56cc6bcbd4184f9df7c632218090a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/LICENSE using Guid(dad56cc6bcbd4184f9df7c632218090a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '75fd83c14b2870b07642b2660bebb95a') in 0.009631 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (date palm).preset
-  artifactKey: Guid(1de544378c7a64e4caaa1b8237b43b9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (date palm).preset using Guid(1de544378c7a64e4caaa1b8237b43b9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e148c67ff9f0cfa232aa9fefd6a37a6c') in 0.020187 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCButton.cs
-  artifactKey: Guid(8bda6702c8a55482f84f34ab90f2dea2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCButton.cs using Guid(8bda6702c8a55482f84f34ab90f2dea2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '79e216da1114d980f022769790e2ef7b') in 0.012249 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/extOSC/Scripts/Editor/OSCWindowsStoreHelper.cs
-  artifactKey: Guid(aa4ced34fdca36e48abbc90d8dc7696b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/OSCWindowsStoreHelper.cs using Guid(aa4ced34fdca36e48abbc90d8dc7696b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9d7155d7b13df82a9c32594a1d7387e5') in 0.011311 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/Editor/extOSC.Editor.asmdef
-  artifactKey: Guid(89fd9bf90890eb94280c9d2bd42b19cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/extOSC.Editor.asmdef using Guid(89fd9bf90890eb94280c9d2bd42b19cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '440203efc0bf0d54cbd4afcc57452ad5') in 0.018410 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (baobab).preset
-  artifactKey: Guid(b268f0523e415ad488d5cafb821117c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (baobab).preset using Guid(b268f0523e415ad488d5cafb821117c0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f5a96df6543ff2acd03aecbe0455c362') in 0.023147 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Core/IOSCBind.cs
-  artifactKey: Guid(fd7506036bb224e509cc9ceb7a5abb93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/IOSCBind.cs using Guid(fd7506036bb224e509cc9ceb7a5abb93) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '04643dc00e17914b1d0cebabe1bf3141') in 0.013731 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Demo Scenes/TreegenRandomTreeGenerator.unity
-  artifactKey: Guid(6229b2c0d450de7418237bd29c8732f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Demo Scenes/TreegenRandomTreeGenerator.unity using Guid(6229b2c0d450de7418237bd29c8732f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '186361614caa2e20226326a376abba7a') in 0.011710 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 8.png
-  artifactKey: Guid(375b52319c379b24a94345cada4f097f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 8.png using Guid(375b52319c379b24a94345cada4f097f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5dd437464007c42a6f846f544b64f263') in 0.026287 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Examples/10) Ping/Scripts/PingExample.cs
-  artifactKey: Guid(f13c9cd32453e454a9a28c6b085661fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/10) Ping/Scripts/PingExample.cs using Guid(f13c9cd32453e454a9a28c6b085661fb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9a666eeb87d1a223712d447e7f1668df') in 0.012844 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 22.png
-  artifactKey: Guid(e85a2cfcd18b57544a354b393a4931c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 22.png using Guid(e85a2cfcd18b57544a354b393a4931c6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '39a16374a290e21b1048cc41d4ac335f') in 0.028489 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventQuaternion.cs
-  artifactKey: Guid(8d51ef013357a41a3bee2c26058b7bdd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventQuaternion.cs using Guid(8d51ef013357a41a3bee2c26058b7bdd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '373258546c23230fd1de9a2eaec82bd2') in 0.011186 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventColor.cs
-  artifactKey: Guid(15e4d77c061184627af5a52607f4c7d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventColor.cs using Guid(15e4d77c061184627af5a52607f4c7d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'df98171ddf8ee7ffba164b3d0f0fe4c9') in 0.011909 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/extOSC/Examples/13) Marshalling/Scripts/MarshallingExample.cs
-  artifactKey: Guid(80920bbbb29084722ac4e8605f19e885) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/13) Marshalling/Scripts/MarshallingExample.cs using Guid(80920bbbb29084722ac4e8605f19e885) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e1df4fd847f371166f6db3b5403ecd33') in 0.010488 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 7.png
-  artifactKey: Guid(59a0b775431c4f8489da6f431cd1f8bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 7.png using Guid(59a0b775431c4f8489da6f431cd1f8bf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd36171e17a70ec1969b27378837d503f') in 0.025637 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventChar.cs
-  artifactKey: Guid(b77ca86e584e14f17a2ada43bc9bba9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventChar.cs using Guid(b77ca86e584e14f17a2ada43bc9bba9e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8493c9f7930283bd41ea5655d7cfed74') in 0.013198 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Examples/12) Match Pattern/Scripts/MatchPatternExample.cs
-  artifactKey: Guid(0df008bf90846489c8bb05dd73575d73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/12) Match Pattern/Scripts/MatchPatternExample.cs using Guid(0df008bf90846489c8bb05dd73575d73) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9d8ba0db54bda048251ad095e46bd7a4') in 0.012257 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEvent.cs
-  artifactKey: Guid(1ead6fe8076674e15b789526be81ac47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEvent.cs using Guid(1ead6fe8076674e15b789526be81ac47) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '155238d23de471dc46be6eac8016bfb7') in 0.012318 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 26.png
-  artifactKey: Guid(c48d1e18ce0c6df4bbbdc6d621bec097) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 26.png using Guid(c48d1e18ce0c6df4bbbdc6d621bec097) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '47254f139bdff20e0c71b9ceffbcfc6b') in 0.032592 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 30.png
-  artifactKey: Guid(f0fafb3fbc876b844843cad7ddb099fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 30.png using Guid(f0fafb3fbc876b844843cad7ddb099fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '06beb5ceda4834dafd7cb4e2b76d2494') in 0.029478 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventFloat.cs
-  artifactKey: Guid(8b117a0703b374103913db889311565f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventFloat.cs using Guid(8b117a0703b374103913db889311565f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0a07491a21220d3823a789fac0861d9c') in 0.012237 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Examples/06) Mapping/Scripts/MappingExample.cs
-  artifactKey: Guid(a1312c29451cd4c919cbf3a6be088444) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/06) Mapping/Scripts/MappingExample.cs using Guid(a1312c29451cd4c919cbf3a6be088444) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e540e2e5c51ffa9b40ecbbdba545b80d') in 0.012557 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventImpulse.cs
-  artifactKey: Guid(0fb7744825800446bb402117c7cac5d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventImpulse.cs using Guid(0fb7744825800446bb402117c7cac5d8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '11a510fe53d82ec70e0e35cdd622f786') in 0.012338 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventNull.cs
-  artifactKey: Guid(9615fc7ed12d94699a85fc7648ad7215) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventNull.cs using Guid(9615fc7ed12d94699a85fc7648ad7215) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7fc750f64ab8d69f3dff35c8efad8c1f') in 0.012014 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventVector2.cs
-  artifactKey: Guid(0bd5d9dd86ec547978b81cc68cb1112a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventVector2.cs using Guid(0bd5d9dd86ec547978b81cc68cb1112a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8b69c06e861b474c6d5bd427036313bf') in 0.011776 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventBlob.cs
-  artifactKey: Guid(584bc642ca8b0448e90bb0d9fe314781) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventBlob.cs using Guid(584bc642ca8b0448e90bb0d9fe314781) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f4e10491e734fccc9d000b8d29b5ac58') in 0.014012 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (tall spruce).preset
-  artifactKey: Guid(7885f86eef36a414aad47af94300e570) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (tall spruce).preset using Guid(7885f86eef36a414aad47af94300e570) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '24a78aaa7a84a88584808d00bec4fb76') in 0.025658 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/OSCReceiver.cs
-  artifactKey: Guid(fbba286dc10e549b2bdec947ef8dbd3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/OSCReceiver.cs using Guid(fbba286dc10e549b2bdec947ef8dbd3b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '2f25e9976abf37aa604bfcfc57c14b0a') in 0.014152 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Prefabs/Arbres/Arbre-1.prefab
-  artifactKey: Guid(377ac1f0750c0b340bd5a1b947e53131) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Prefabs/Arbres/Arbre-1.prefab using Guid(377ac1f0750c0b340bd5a1b947e53131) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fc89c485f4e05e58b5e235f7301c32e8') in 0.032148 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Examples/07) Scripting/Scripting.unity
-  artifactKey: Guid(745874003e2d842b9866ea18f49e0d83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/07) Scripting/Scripting.unity using Guid(745874003e2d842b9866ea18f49e0d83) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'da9079301120490d98916b3efb507bd3') in 0.010260 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/extOSC/Scripts/OSCMidi.cs
-  artifactKey: Guid(62e1c0055b0084f73917cee1fa186c08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/OSCMidi.cs using Guid(62e1c0055b0084f73917cee1fa186c08) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '768aaa95fcff4076dc20478fd4b6e46a') in 0.011860 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Resources/extOSC/iw-logo.png
-  artifactKey: Guid(e8b0f0c0efb7344b4a0110f6996b6580) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/iw-logo.png using Guid(e8b0f0c0efb7344b4a0110f6996b6580) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '61270d17b539f6673a590d3450b3753e') in 0.026071 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Prefabs/Arbres/Arbre-1.asset
-  artifactKey: Guid(e65c7096407a407469eef1d6555b258d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Prefabs/Arbres/Arbre-1.asset using Guid(e65c7096407a407469eef1d6555b258d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e0a18edea05051af73006ed38d8ceb09') in 0.017611 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/Components/OSCReceiverComponent.cs
-  artifactKey: Guid(e2fb5b3289934436eabcbd8811af3bf6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/OSCReceiverComponent.cs using Guid(e2fb5b3289934436eabcbd8811af3bf6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '15141fb02041a660f507096c70fe2f15') in 0.012194 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 18.png
-  artifactKey: Guid(a7efb4151b32a194591ad9c0b6c74b41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 18.png using Guid(a7efb4151b32a194591ad9c0b6c74b41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '66f1f2330ff72d7621dfa2a1eb49d5b5') in 0.025418 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerQuaternion.cs
-  artifactKey: Guid(73d1fb28a575040f58df1f3c7794998e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerQuaternion.cs using Guid(73d1fb28a575040f58df1f3c7794998e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b0807bc02d4998c97a9b48805758ba5c') in 0.010878 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionString.cs
-  artifactKey: Guid(85004272452934ca79bb4b8a61eb2d4c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionString.cs using Guid(85004272452934ca79bb4b8a61eb2d4c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '12461e7e5639876a91ce487604f002c1') in 0.012743 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBool.cs
-  artifactKey: Guid(a0894c1e252474d47bfd0213015a0a1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBool.cs using Guid(a0894c1e252474d47bfd0213015a0a1d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '57b8726d79a782b211dbab78e79fdf14') in 0.011463 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerVector3.cs
-  artifactKey: Guid(ca502f3ea46a24fb1b2f5a576883da03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerVector3.cs using Guid(ca502f3ea46a24fb1b2f5a576883da03) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7a490c823b938bd5d078860d1cf37cff') in 0.012438 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerInt.cs
-  artifactKey: Guid(a7829d4dd69f24ac6a93c5a51b67e54c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerInt.cs using Guid(a7829d4dd69f24ac6a93c5a51b67e54c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f3622a4e36992211ce7c90baede72d85') in 0.011715 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerFloat.cs
-  artifactKey: Guid(68bb978b896e244e69cb32252ed8cf5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerFloat.cs using Guid(68bb978b896e244e69cb32252ed8cf5b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'eb5fc82d47aa2384e94aa729ea2d5456') in 0.011173 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerLong.cs
-  artifactKey: Guid(e7ef94b01bc4741138a6445b16d00d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerLong.cs using Guid(e7ef94b01bc4741138a6445b16d00d65) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd42882196deeb055537fcc2424d70ba9') in 0.011118 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventChar.cs
-  artifactKey: Guid(c4219b966246048948cd0a91d6b5f357) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventChar.cs using Guid(c4219b966246048948cd0a91d6b5f357) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '42dfb14f78be5a15fbb61f32c26f501b') in 0.011451 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionVector2.cs
-  artifactKey: Guid(3f8aaeb9700024a56b4607333885d062) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionVector2.cs using Guid(3f8aaeb9700024a56b4607333885d062) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5141d3e9543fa635b4e7836533aa9126') in 0.011053 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionQuaternion.cs
-  artifactKey: Guid(8382020c642464ed68516497d0465e1f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionQuaternion.cs using Guid(8382020c642464ed68516497d0465e1f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '51a05cb39f3895c343139f2235b2a685') in 0.011139 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBlob.cs
-  artifactKey: Guid(e638fca5fc4eb413cbe6f4dbeedce9ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBlob.cs using Guid(e638fca5fc4eb413cbe6f4dbeedce9ba) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'df3e7b0781ef97f19e3ce621986a1f80') in 0.011899 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionLong.cs
-  artifactKey: Guid(d9e4b759057e54499b9b8d32e385f940) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionLong.cs using Guid(d9e4b759057e54499b9b8d32e385f940) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a0473af3be22231dafb8e43e8ede405b') in 0.011863 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerFloatToInt.cs
-  artifactKey: Guid(568bcbf90f3460449bac69c4b2fda9a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerFloatToInt.cs using Guid(568bcbf90f3460449bac69c4b2fda9a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '17e82cecb9a38358f14c94bf13fb3429') in 0.012042 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionRect.cs
-  artifactKey: Guid(3888dbb450e0646209a8cc7ec89de434) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionRect.cs using Guid(3888dbb450e0646209a8cc7ec89de434) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '66b0c690e28d70aa70886770ab808285') in 0.011487 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000606 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerBlob.cs
-  artifactKey: Guid(5a70116166e4645c58c449c6cd2ec356) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerBlob.cs using Guid(5a70116166e4645c58c449c6cd2ec356) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '87df9ea25d2aea94f4c61cb3a468d7be') in 0.011610 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.001975 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionMidi.cs
-  artifactKey: Guid(bc2b034f673754cf1bc211d282f9102d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionMidi.cs using Guid(bc2b034f673754cf1bc211d282f9102d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'bfd50257670b6879dc26795dbd3adc39') in 0.011961 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Scripts/Components/Misc/OSCReceiverSkinnedMesh.cs
-  artifactKey: Guid(c9a49a15924edb14da970025e1a02a29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Misc/OSCReceiverSkinnedMesh.cs using Guid(c9a49a15924edb14da970025e1a02a29) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '10edb43d6381a8e021228ba167cc01a2') in 0.011105 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventDateTime.cs
-  artifactKey: Guid(cb1a6157107a1447aa5f08d917672d7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventDateTime.cs using Guid(cb1a6157107a1447aa5f08d917672d7d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e74f7ed78c90348dea6bb24584eb60b4') in 0.011294 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionFloat.cs
-  artifactKey: Guid(b103e34ab534146ad84a9b30057e6b26) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionFloat.cs using Guid(b103e34ab534146ad84a9b30057e6b26) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '79f8a746d1c4219476d7b38ef3605f2e') in 0.011133 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerChar.cs
-  artifactKey: Guid(cdf7f40c466754afd8a32082dd056c2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerChar.cs using Guid(cdf7f40c466754afd8a32082dd056c2f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '51a7eb51fdbdcd1d4156e94ddd7a2cdc') in 0.011731 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Shaders/TREEGEN_Trunk.shader
-  artifactKey: Guid(c61194769c49566439e564fcdf2deff8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Shaders/TREEGEN_Trunk.shader using Guid(c61194769c49566439e564fcdf2deff8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7a648b7d05d4c9b48f9523933b07627d') in 0.013164 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 15.png
-  artifactKey: Guid(a353447a29aea2741aead51b546f1332) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 15.png using Guid(a353447a29aea2741aead51b546f1332) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd3106afbcc8a154b92fa4183f1d93b50') in 0.028305 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 11.png
-  artifactKey: Guid(11f2ecef4387ba94eb33c030819cb85d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 11.png using Guid(11f2ecef4387ba94eb33c030819cb85d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a5a7af56faedd77f2751dea04bc0b5f5') in 0.024860 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/extOSC/Examples/03) Events/Scripts/EventsExample.cs
-  artifactKey: Guid(4527cc0486a6844de89b69417577a360) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/03) Events/Scripts/EventsExample.cs using Guid(4527cc0486a6844de89b69417577a360) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6c79427572ba4a5edc0177d1403baca0') in 0.011558 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_transmitter_dark.png
-  artifactKey: Guid(3c3b0e24fdfec43d2918d3d7570f1c3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_transmitter_dark.png using Guid(3c3b0e24fdfec43d2918d3d7570f1c3c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'eb75933e6a5929b2e50ff4f2bc0e2892') in 0.026576 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Components/Ping/OSCPingClient.cs
-  artifactKey: Guid(30acc69e16e97460c966233259186d33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Ping/OSCPingClient.cs using Guid(30acc69e16e97460c966233259186d33) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7f3b422a5ed010c93034b4c7bc97d4b8') in 0.010222 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_message_light.png
-  artifactKey: Guid(257349e0984fc4039928c5ac885f43bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_message_light.png using Guid(257349e0984fc4039928c5ac885f43bc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f8c5288062a19f43e3ab16cbdf74ed02') in 0.024766 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Editor/OSCDefinesManager.cs
-  artifactKey: Guid(845b1afcff0f33341832c26e85624a3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/OSCDefinesManager.cs using Guid(845b1afcff0f33341832c26e85624a3d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '58254ab579e33081e5423b1c96dae599') in 0.011753 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/extOSC/Resources/extOSC/OSC_bundle_light.png
-  artifactKey: Guid(8a7a40827beec4e4bae2165b3f72c9b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Resources/extOSC/OSC_bundle_light.png using Guid(8a7a40827beec4e4bae2165b3f72c9b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9b39f505f6cd96502e7d89e346404026') in 0.023676 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/extOSC/Scripts/Components/OSCComponent.cs
-  artifactKey: Guid(f72d6f6070c24466a81bd99e594c6300) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/OSCComponent.cs using Guid(f72d6f6070c24466a81bd99e594c6300) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '032dfbb394d8d657ee782b17ed24863c') in 0.010798 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerIntToFloat.cs
-  artifactKey: Guid(cfe0255d3980562418e0711265f06cc5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerIntToFloat.cs using Guid(cfe0255d3980562418e0711265f06cc5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '2cf871a8c5f0ed23c0f0c6ca87290139') in 0.012201 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/TREEGEN Grid Texture.png
-  artifactKey: Guid(2c42a0bea5c09a34ebc058c5682d35c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/TREEGEN Grid Texture.png using Guid(2c42a0bea5c09a34ebc058c5682d35c2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '58aaab79a741984271caed009a0b109d') in 0.026640 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerString.cs
-  artifactKey: Guid(c5d31582afe4b495f8a509ea615cfbaf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Informers/OSCTransmitterInformerString.cs using Guid(c5d31582afe4b495f8a509ea615cfbaf) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e2d183b928380516a19e2708decee925') in 0.009971 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Demo Scenes/TreegenLODs.unity
-  artifactKey: Guid(d603334cd78ae9c40aab5d51a4499a2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Demo Scenes/TreegenLODs.unity using Guid(d603334cd78ae9c40aab5d51a4499a2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3641e5deb7e335799be91efa36ce7c5e') in 0.010172 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/TREEGEN - procedural tree generator 1.1.1.pdf
-  artifactKey: Guid(6c8fcabe0a6d9f349bad18ee29b0ed7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/TREEGEN - procedural tree generator 1.1.1.pdf using Guid(6c8fcabe0a6d9f349bad18ee29b0ed7a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f3beff4b9481189864da15b94368d3ad') in 0.011008 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCPanelPacket.cs
-  artifactKey: Guid(b5b4894787af1419d9e770639f34fe36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCPanelPacket.cs using Guid(b5b4894787af1419d9e770639f34fe36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9943202e3791fdc6ee9c002627088bc7') in 0.010988 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCPanelControlCreator.cs
-  artifactKey: Guid(c2559b134bcbd49b78f89bbc12f36329) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCPanelControlCreator.cs using Guid(c2559b134bcbd49b78f89bbc12f36329) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e37a6a2eccfa210d91d8a4bdbabc3083') in 0.011318 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/extOSC/Scripts/Editor/Windows/OSCWindow.cs
-  artifactKey: Guid(b5bfb557717ba4743a618e9036fbd45f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Windows/OSCWindow.cs using Guid(b5bfb557717ba4743a618e9036fbd45f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '824eba54d3bdb8bde1759c9b14218f76') in 0.013541 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerChar.cs
-  artifactKey: Guid(badc9c71b19802b44bf5ab0d3384035b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerChar.cs using Guid(badc9c71b19802b44bf5ab0d3384035b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '4e4d1601f0a49b59a8a7b67f4467a760') in 0.011870 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventLong.cs
-  artifactKey: Guid(600735ba625eb4bc1bf54b20ea078aef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventLong.cs using Guid(600735ba625eb4bc1bf54b20ea078aef) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a76bc2cb463ffb1892927e037955ece6') in 0.011787 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/extOSC/Scripts/Core/Network/OSCReceiverBackend.cs
-  artifactKey: Guid(67d52ed67ba5de442ac3a41e574ca9f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Network/OSCReceiverBackend.cs using Guid(67d52ed67ba5de442ac3a41e574ca9f1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '34a71d6456011054af6d09bc4ff5ae2a') in 0.011857 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Windows/OSCWindowMapping.cs
-  artifactKey: Guid(d16ef0f242cbb4480b2cfaf91ca8fab5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Windows/OSCWindowMapping.cs using Guid(d16ef0f242cbb4480b2cfaf91ca8fab5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6c5c9fb0786a4a84e52d30c28e15f5e8') in 0.011851 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Scripts/Core/Reflection/OSCReflectionProperty.cs
-  artifactKey: Guid(499e312369f7543b6aff7ac8e7e5a87a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Reflection/OSCReflectionProperty.cs using Guid(499e312369f7543b6aff7ac8e7e5a87a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b13710835daf0b43bf229aee01a4199e') in 0.012076 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventInt.cs
-  artifactKey: Guid(4d540d2587bec4947abdcfe5626e15cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventInt.cs using Guid(4d540d2587bec4947abdcfe5626e15cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd47f05236614d1ced77943e396b977cb') in 0.022484 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventImpulse.cs
-  artifactKey: Guid(0acf14c12363347ffbe4f30a846bcdb8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventImpulse.cs using Guid(0acf14c12363347ffbe4f30a846bcdb8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '59838edf02ccccff7e7369dce21d0015') in 0.010159 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Editor/Drawers/OSCPacketEditableDrawer.cs
-  artifactKey: Guid(8740cb407a774ce891bb4c854fff8d88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Drawers/OSCPacketEditableDrawer.cs using Guid(8740cb407a774ce891bb4c854fff8d88) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9d536701e98e4751ba79da86df308dd4') in 0.011231 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCSplitPanel.cs
-  artifactKey: Guid(9737c80136af4480e813baebdc5f8b8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCSplitPanel.cs using Guid(9737c80136af4480e813baebdc5f8b8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3ca19c7513e4a8e6bebde5beca6c7326') in 0.011795 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventMessage.cs
-  artifactKey: Guid(ddaff9fbe950f4ac19f7363d49b834be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventMessage.cs using Guid(ddaff9fbe950f4ac19f7363d49b834be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'eb601fdc53e25f3252f2d134037a673a') in 0.011237 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventVector3.cs
-  artifactKey: Guid(f7132424d886c465db6f0725000a467e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventVector3.cs using Guid(f7132424d886c465db6f0725000a467e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c553d7b9d88bce7daa22a9fb73121e33') in 0.011589 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Drawers/OSCHostDrawer.cs
-  artifactKey: Guid(34bb02940ab532349a2081d2f028a53e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Drawers/OSCHostDrawer.cs using Guid(34bb02940ab532349a2081d2f028a53e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f056c5d5557bb253819374e17edc27db') in 0.010924 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerLong.cs
-  artifactKey: Guid(f7fb82857e2583844bee209b3ff78c4f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerLong.cs using Guid(f7fb82857e2583844bee209b3ff78c4f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e6d3bd6371ff7ff180be5a7b8df1894b') in 0.011130 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerNull.cs
-  artifactKey: Guid(0e15cb18a0297c8428ffbe7eefa5aa2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerNull.cs using Guid(0e15cb18a0297c8428ffbe7eefa5aa2c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '18eb39ef6f942eaf0b98e2578973c2b2') in 0.011849 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCPanelMapping.cs
-  artifactKey: Guid(2bf5968f77c2f4cf9a115b2be2d8e10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCPanelMapping.cs using Guid(2bf5968f77c2f4cf9a115b2be2d8e10a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6e79aaebf98332b0ba6441aeb1324666') in 0.011298 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventPacket.cs
-  artifactKey: Guid(d1031221889229e4eaa1719489b52225) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventPacket.cs using Guid(d1031221889229e4eaa1719489b52225) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '52f795b01df38674550bdeb08e86cb4c') in 0.012141 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerMidi.cs
-  artifactKey: Guid(c743e4b26d87543f0bfed1fa38515244) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerMidi.cs using Guid(c743e4b26d87543f0bfed1fa38515244) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6ba6233962c01b0759e754238d440a6d') in 0.012404 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCPanelPacketEditor.cs
-  artifactKey: Guid(dd043f96a1dc5484ba0726dee66c516a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCPanelPacketEditor.cs using Guid(dd043f96a1dc5484ba0726dee66c516a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fa070e12b342fcdc9cd566581226f06e') in 0.010737 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Scripts/Editor/Panels/OSCPanelConsole.cs
-  artifactKey: Guid(a5b6bf18c42b84ed39e6ef67656e3e2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Panels/OSCPanelConsole.cs using Guid(a5b6bf18c42b84ed39e6ef67656e3e2e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9e8b64c956cff0f38033c3619f29f2c4') in 0.011781 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Core/Network/OSCTransmitterBackend.cs
-  artifactKey: Guid(df9cc67942fd5d74da31457fa31f5393) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Network/OSCTransmitterBackend.cs using Guid(df9cc67942fd5d74da31457fa31f5393) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1cefd2573d383e1efd4fb158c4b6ef79') in 0.012076 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerDouble.cs
-  artifactKey: Guid(3b41da80cf39d804fb491f7729bd30ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerDouble.cs using Guid(3b41da80cf39d804fb491f7729bd30ea) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '4784b89922bb81c6329f9beca8986329') in 0.011018 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventMidi.cs
-  artifactKey: Guid(a27e3fe03fa7a4208a959e8e1f3e848c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventMidi.cs using Guid(a27e3fe03fa7a4208a959e8e1f3e848c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'bd83d92155b30153bffd022051c29ab3') in 0.011006 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/LODMaster.cs
-  artifactKey: Guid(899b32a4f0ce950438a24589b065cae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/LODMaster.cs using Guid(899b32a4f0ce950438a24589b065cae0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3c1c786e7d9087046c4f3ec6dd3f7264') in 0.011860 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Core/Packers/OSCPackerFalse.cs
-  artifactKey: Guid(ddf5dea6136368146a4a39d19223b9e4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Packers/OSCPackerFalse.cs using Guid(ddf5dea6136368146a4a39d19223b9e4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '856b0621e51a4b07a868a68ca59d4e97') in 0.011574 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Editor/SerializedPropertyExtensions.cs
-  artifactKey: Guid(8541d77dc0e089f45b54a3c405d6dd1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Editor/SerializedPropertyExtensions.cs using Guid(8541d77dc0e089f45b54a3c405d6dd1e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1aaba044c2772d62856b834c0d4a0578') in 0.011839 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Editor/Drawers/OSCFilterDrawer.cs
-  artifactKey: Guid(ec99e44021c881043bd4c148cfab738a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Drawers/OSCFilterDrawer.cs using Guid(ec99e44021c881043bd4c148cfab738a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0a3fd2d51721cdb750aa307e29afdd35') in 0.012891 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Scripts/Editor/Drawers/OSCReflectionMemberDrawer.cs
-  artifactKey: Guid(f0a107162ce7a8745a8b3a435a6cd30d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Drawers/OSCReflectionMemberDrawer.cs using Guid(f0a107162ce7a8745a8b3a435a6cd30d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '7933b93ce0b62c786c93363353b1a03c') in 0.012120 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventNull.cs
-  artifactKey: Guid(e027b16b4897047cca2699c0e161f924) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventNull.cs using Guid(e027b16b4897047cca2699c0e161f924) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'aaf81647844f680d0b7028008550dcaa') in 0.012102 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/extOSC/Scripts/Editor/Windows/OSCWindowConsole.cs
-  artifactKey: Guid(358ed270e2f7648c282dc98db8a83f1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Windows/OSCWindowConsole.cs using Guid(358ed270e2f7648c282dc98db8a83f1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c6f2542a1ffe3cbe9ab33459df8cac83') in 0.011742 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (spruce).preset
-  artifactKey: Guid(f79e87982ef9b25478b435d9ae3b11ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Presets/TREEGEN (spruce).preset using Guid(f79e87982ef9b25478b435d9ae3b11ee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8ae1b2c2a720030a56e81197b155459d') in 0.020983 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/extOSC/Scripts/Components/Misc/OSCTransmitterSeparateVector3.cs
-  artifactKey: Guid(f1399076df366c14b8970ff8083eaf12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Misc/OSCTransmitterSeparateVector3.cs using Guid(f1399076df366c14b8970ff8083eaf12) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '438287548941173cc05a00e901949e39') in 0.011563 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventLong.cs
-  artifactKey: Guid(760ae93b15d024fc6986c6d3f57fe96c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventLong.cs using Guid(760ae93b15d024fc6986c6d3f57fe96c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '45990f8ed7ebe122d634109f8ff7e259') in 0.011082 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Editor/TreegenPolyEditor.cs
-  artifactKey: Guid(738f8d6cfd175e44cbf8ace551071433) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Editor/TreegenPolyEditor.cs using Guid(738f8d6cfd175e44cbf8ace551071433) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5562b97677ab0802a5f7952d2974c672') in 0.013155 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 16.png
-  artifactKey: Guid(6bd6f4963ff4adc4ab2cd74e9c1eb17d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 16.png using Guid(6bd6f4963ff4adc4ab2cd74e9c1eb17d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'a8decef4d486c59c01524badf2a45eea') in 0.175557 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 14.mat
-  artifactKey: Guid(5d37f227a653be9409105b9669f1faac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 14.mat using Guid(5d37f227a653be9409105b9669f1faac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1d88eab89187e82f9ed2babbb14a160b') in 0.045232 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 8.mat
-  artifactKey: Guid(5c244d3e9b26bd54a959539b4717333d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 8.mat using Guid(5c244d3e9b26bd54a959539b4717333d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8815be32ac5979b2065512ff7a603e7e') in 0.023297 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 15.mat
-  artifactKey: Guid(e650a432eaaa61548b1548b51f99be86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 15.mat using Guid(e650a432eaaa61548b1548b51f99be86) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '4f64e52737f34c84042cad01bbb32b6b') in 0.022160 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 17.mat
-  artifactKey: Guid(b3de9ceda7a08044eb25c4f60d09e430) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 17.mat using Guid(b3de9ceda7a08044eb25c4f60d09e430) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6efe6582ff53aebb458ae4d85deb8f8d') in 0.028737 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCPingServerEditor.cs
-  artifactKey: Guid(a1de94d8c61da45f6abf17bb76057361) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCPingServerEditor.cs using Guid(a1de94d8c61da45f6abf17bb76057361) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5895d48665dfbc7fa8aa9c171778a06e') in 0.012239 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 10.mat
-  artifactKey: Guid(072f1dfdba29f544fa25c877c761f131) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 10.mat using Guid(072f1dfdba29f544fa25c877c761f131) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'aca32f4506fffa8eb51f797f8726ac8c') in 0.023833 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 11.mat
-  artifactKey: Guid(cd17898a565f23447a009e5b5336acbc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 11.mat using Guid(cd17898a565f23447a009e5b5336acbc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '45722eae19d54dda167f7cdaa51eec9f') in 0.020619 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Edge.cs
-  artifactKey: Guid(bf7f6a211b406884b8923567a9aaa32e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Edge.cs using Guid(bf7f6a211b406884b8923567a9aaa32e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c73165365fc018b37aaa0cc35b868ea7') in 0.012528 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/no_uv.shader
-  artifactKey: Guid(ca34dc807a5d2f440b436aee2a708607) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/no_uv.shader using Guid(ca34dc807a5d2f440b436aee2a708607) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '29a2fd87163cf0e19e99f26521251c7d') in 0.012841 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Utility/Vector3d.cs
-  artifactKey: Guid(557f5a3aa4427134caff2edf24df9e39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Utility/Vector3d.cs using Guid(557f5a3aa4427134caff2edf24df9e39) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '29d18b785077c11a28831ba9ce2c2e37') in 0.010010 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/ViewFaceMeshEditor.shader
-  artifactKey: Guid(1cf9affad7c13ce4ea3a95510c740a62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/ViewFaceMeshEditor.shader using Guid(1cf9affad7c13ce4ea3a95510c740a62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '48bb313d6806646b9cd5939bd75d5a8c') in 0.012083 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/UI/OSCMultiplySlidersEditor.cs
-  artifactKey: Guid(a51f3bf7fa30042b9b16261d14e1021f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/UI/OSCMultiplySlidersEditor.cs using Guid(a51f3bf7fa30042b9b16261d14e1021f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c836ef70f97ffd98e9c5172ba601d8b3') in 0.010448 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Vertex.cs
-  artifactKey: Guid(2eb1971124b172043be37b6e360c92f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Vertex.cs using Guid(2eb1971124b172043be37b6e360c92f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6ea9ee5ef6729f1ab7f5fa740083711a') in 0.011100 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 13.mat
-  artifactKey: Guid(86e8e29ad90ec86469c95927f7e435e7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 13.mat using Guid(86e8e29ad90ec86469c95927f7e435e7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0ce95d2f0bc5cf5197e076beb6eef8e4') in 0.125629 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 7.mat
-  artifactKey: Guid(669eb5b737162fa4a8d7610875473aed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 7.mat using Guid(669eb5b737162fa4a8d7610875473aed) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c63467821ab6cb628cf08bf5e8d64c71') in 0.023959 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterComponentEditor.cs
-  artifactKey: Guid(1c310151a08364a09852d592846275d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterComponentEditor.cs using Guid(1c310151a08364a09852d592846275d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8df905fdb8590ae06187be4ef0ade317') in 0.011139 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 3.mat
-  artifactKey: Guid(4476aa36d80b2494c8f0abf1c3fbfaae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 3.mat using Guid(4476aa36d80b2494c8f0abf1c3fbfaae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8b996eb5fade2ac2c70d4b948219b06f') in 0.019318 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterPingEditor.cs
-  artifactKey: Guid(b457888adb20a44429270cbb0a97e7e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterPingEditor.cs using Guid(b457888adb20a44429270cbb0a97e7e0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'dfe82bd6898a04bba3587f1082089b9e') in 0.012237 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 3.mat
-  artifactKey: Guid(28e58986916bcd241a09f69950a7f5db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 3.mat using Guid(28e58986916bcd241a09f69950a7f5db) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '98212b6eeeb5e56010038d3272e994e3') in 0.022754 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterInformerEditor.cs
-  artifactKey: Guid(542ab34793363418da1c9c590695f2f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCTransmitterInformerEditor.cs using Guid(542ab34793363418da1c9c590695f2f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fb76f5d71e1ccd6ad6eefadce1ba1ea9') in 0.012278 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 15.mat
-  artifactKey: Guid(13ce00f253ffa524f84b9993738db5fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 15.mat using Guid(13ce00f253ffa524f84b9993738db5fd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c7c8bb43fd47add89f060c8b8d3181e3') in 0.022077 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Triangle.cs
-  artifactKey: Guid(2ee9f3dcb8383f8429e34f2a161f0c00) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/Triangle.cs using Guid(2ee9f3dcb8383f8429e34f2a161f0c00) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '4a27a68eb4fd800a5071706eb0b598ba') in 0.012263 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCReceiverEventEditor.cs
-  artifactKey: Guid(1f14a77f73ad243f9b519c4dcc633203) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCReceiverEventEditor.cs using Guid(1f14a77f73ad243f9b519c4dcc633203) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '74eddace601957729f13ff04e3b87a60') in 0.012509 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 0.mat
-  artifactKey: Guid(60ded573a22839f43abdec679bc4a186) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 0.mat using Guid(60ded573a22839f43abdec679bc4a186) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c7bdde501f596d37a7134ebe7c76dca8') in 0.023664 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 16.mat
-  artifactKey: Guid(560a12d3daf0eeb46b4a287766557fa0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Leaves Materials/Leaves 16.mat using Guid(560a12d3daf0eeb46b4a287766557fa0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fe1d1f0941bdabcbbbfc63918f458b5f') in 0.021273 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/extOSC/Scripts/Editor/Editors/Components/OSCComponentEditor.cs
-  artifactKey: Guid(643e1d84065294781ba11af4c3c5effe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Editor/Editors/Components/OSCComponentEditor.cs using Guid(643e1d84065294781ba11af4c3c5effe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6c6da83c295ae6aa9b832038fce89986') in 0.011222 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000033 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionVector4.cs
-  artifactKey: Guid(93a273110c482455eb89ffab80bda339) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionVector4.cs using Guid(93a273110c482455eb89ffab80bda339) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'dc685770348e72ad679de6c840b23671') in 0.011899 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/ViewEdgeMeshEditor.shader
-  artifactKey: Guid(7ca5b7325064c5c41b393e11d6c035d2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/TREEGENMeshEditor/Shaders/ViewEdgeMeshEditor.shader using Guid(7ca5b7325064c5c41b393e11d6c035d2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'b8a993430827e6c529c62b30820bd1b9') in 0.011887 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/extOSC/Examples/04) Informers/Scripts/InformersExample.cs
-  artifactKey: Guid(70d6e6a02989740f6a826e757dd7a31a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Examples/04) Informers/Scripts/InformersExample.cs using Guid(70d6e6a02989740f6a826e757dd7a31a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1eec0d81e26b7429156d007bb2de2920') in 0.012084 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/BorderVertex.cs
-  artifactKey: Guid(88614374380423b419f78186c3a25b53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/Structures/BorderVertex.cs using Guid(88614374380423b419f78186c3a25b53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c1e0d36d26aa00523928b2a147ef5c7f') in 0.011467 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 27.png
-  artifactKey: Guid(919607a150caca3469c7924ebbc4e439) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Textures/texture 27.png using Guid(919607a150caca3469c7924ebbc4e439) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6d318c236ce65c07baee5451ea318d2a') in 0.031939 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/extOSC/Scripts/Components/Events/OSCReceiverEventVector4.cs
-  artifactKey: Guid(0fc479081765547d2a150f9e4dda3ae1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/Events/OSCReceiverEventVector4.cs using Guid(0fc479081765547d2a150f9e4dda3ae1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '12a2f1e8e03635f76ac4598aba527cc5') in 0.013516 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/Core/Events/OSCEventColor.cs
-  artifactKey: Guid(b49ed5f326e9a44e198eece10da93344) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Core/Events/OSCEventColor.cs using Guid(b49ed5f326e9a44e198eece10da93344) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0fadbed2f989d2059983f0c348a62e54') in 0.013985 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflection.cs
-  artifactKey: Guid(6606b25d0ed8f4ceca6cf5a4e284053a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflection.cs using Guid(6606b25d0ed8f4ceca6cf5a4e284053a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '0f520b39380653df4483cc6eb0d4b320') in 0.018295 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000699 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/SimplificationOptions.cs
-  artifactKey: Guid(23d4b2f08f418124cb60db3d3a886d0c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/SimplificationOptions.cs using Guid(23d4b2f08f418124cb60db3d3a886d0c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd15626973677b296aba1f388f3307eb7') in 0.014022 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 5.mat
-  artifactKey: Guid(a481e662e31cfc14e997d9cb603f5e0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Treegen Resourses/Treegen Materials/Trunk Materials/Trunk 5.mat using Guid(a481e662e31cfc14e997d9cb603f5e0d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '65f6225b61ade9e627abb6b15d8552a1') in 0.014239 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/MeshCombiner.cs
-  artifactKey: Guid(9818ec5b82eb95944928ffeb7dd4ca04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/LODsMaster/Runtime/MeshCombiner.cs using Guid(9818ec5b82eb95944928ffeb7dd4ca04) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '74990ce70efbdcc71d68a22c0562c575') in 0.011986 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/TREEGEN 2023 - procedural tree generator/Plugins/ReadmeScript/ReadmeLods.cs
-  artifactKey: Guid(5980c30d2e32606479da30a56c2071e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TREEGEN 2023 - procedural tree generator/Plugins/ReadmeScript/ReadmeLods.cs using Guid(5980c30d2e32606479da30a56c2071e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd82d79097d33577dbf82aa5cb4cae73b') in 0.011272 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/extOSC/Scripts/UI/OSCControls.cs
-  artifactKey: Guid(e86aad17287a44e36a8fbf632402c079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/extOSC/Scripts/UI/OSCControls.cs using Guid(e86aad17287a44e36a8fbf632402c079) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9d2f917c0af9824e47fb83bb79bc58dd') in 0.012523 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.504 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.226 seconds
+Domain Reload Profiling: 1725ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (46ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (229ms)
+		LoadAssemblies (319ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (16ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (1226ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (518ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (401ms)
+			ProcessInitializeOnLoadMethodAttributes (25ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Refreshing native plugins compatible for Editor in 5.08 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3332 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.5 KB). Loaded Objects now: 3821.
+Memory consumption went from 129.1 MB to 129.1 MB.
+Total: 3.678900 ms (FindLiveObjects: 0.275100 ms CreateObjectMapping: 0.403100 ms MarkObjects: 2.944300 ms  DeleteObjects: 0.055300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
