@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/extOSC/Examples/06) Mapping/Mapping.unity
+=======
+- path: Assets/Scenes/Abdel-Test.unity
+>>>>>>> ca32aa63ae4afd3ebd545fd7a6e86e2a8c995654
   isLoaded: 1
   isActive: 1
   isSubScene: 0
